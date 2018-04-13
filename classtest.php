@@ -11,5 +11,9 @@ namespace wasd;
 
 class classtest
 {
+    public $wasd;
+    protected $abc;
+    private $efg;
+
 
 }
